@@ -1,0 +1,19 @@
+{
+  "name": "javascript-form-functions",
+  "version": "0.0.0",
+  "homepage": "https://github.com/chaneyz/javascript-form-functions",
+  "authors": [
+    "Zach Chaney <zachary.chaney@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chai": "~2.3.0"
+  }
+}
